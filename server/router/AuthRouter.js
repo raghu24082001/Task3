@@ -11,6 +11,8 @@ router.post('/register',registerdata)
 
 //http://localhost:5000/api/user/register
 
+//https://task3-lwtn.onrender.com/api/user/register
+
 
 //http://localhost:5000/api/user/login
 

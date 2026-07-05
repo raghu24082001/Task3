@@ -13,6 +13,8 @@ const LeadRouter = express.Router();
 // GET /api/leads?search=&status=&employee=&startDate=&endDate=&page=1&limit=10
 LeadRouter.get("/", getAllLeads);
 
+//https://task3-lwtn.onrender.com/getAllLeads
+
 // GET /api/leads/:id
 LeadRouter.get("/:id", getLeadById);
 
